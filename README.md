@@ -1,6 +1,6 @@
 # A.I-Car-Simulation
 
-# Important # : # Copy the code from config file i have provided , i created the config file for my system screen that 1920X1080 , make chnages according to your System Screen and feel freen to add on this code lets the knowledge be spread for free #
+# Important # : # Copy the code from config file i have provided , i created the config file for my system screen that 1920X1080 , make changes according to your System Screen and feel free to add on this code lets the knowledge be spread for free #
 
 A.I. Car simulation using NEAT (NeuroEvolution of Augmenting Topologies) is a fascinating application of evolutionary algorithms to train artificial neural networks for autonomous driving in a simulated environment. Here's a brief and detailed description:
 
